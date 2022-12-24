@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Jimmie Rath",
+      "id": 1
+    },
+    {
+      "name": "Leo Goodwin",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Towels",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Rubber Shoes",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Fresh Sausages",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=55846",
+      "albumId": 2,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=79014",
+      "albumId": 2,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=57968",
+      "albumId": 2,
+      "id": 7
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=48939",
+      "albumId": 3,
+      "id": 8
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=1838",
+      "albumId": 3,
+      "id": 9
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=32275",
+      "albumId": 1,
+      "id": 10
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=13881",
+      "albumId": 1,
+      "id": 11
+    }
+  ]
+}
